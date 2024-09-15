@@ -1,5 +1,3 @@
-import numpy as np
-import pandas as pd
 import functions as fn
 
 bias = 0.0
