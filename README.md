@@ -14,7 +14,7 @@ This code requires the following Python libraries:
 You can install them using pip:
 
 ```bash
-pip install numpy pandas
+pip install numpy pandas matplotlib.pyplot
 ```
 Clone the repository:
 ```bash
